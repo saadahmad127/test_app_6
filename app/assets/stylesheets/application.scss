@@ -13,4 +13,13 @@
 
 
  */ 
- @import "bootstrap"
+ @import "bootstrap";
+
+ .navbar{
+    background-color: rgb(146, 109, 109) !important;
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
