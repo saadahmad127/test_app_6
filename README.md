@@ -1,1 +1,1 @@
-Testing after settip up with GitHub repository.
+This repo is made while learning the course Ruby on Rails developer course
